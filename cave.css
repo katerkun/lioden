@@ -1,0 +1,31 @@
+body {background: url('https://cdna.artstation.com/p/assets/images/images/026/179/212/large/michal-kvac-ancient-stones-small.jpg') top center fixed;background-size: 100%;font-family: Raleway;color: black;}
+.topbar {background: rgba(126,100,86,0.8);border: 1px solid black;border-top: none;color: black;}
+.navbar {background: rgba(126,100,86,0.8);border-bottom: 2px solid black;font-family: Julius Sans One;}
+.navbar li a {color: black !important;}
+.navbar li a:hover {background: rgba(144,90,93,0.8) !important;}
+.container.main {background: rgba(150,139,122,0.8);border: 1px solid black;box-shadow: none;}
+.col-md-9 {background: none;}
+.breadcrumb {background: rgba(223,215,205,0.8);}
+.breadcrumb .active {color: black;}
+.alert {background: rgba(150,139,122,0.8);border: 1px solid black;color: black;}
+.alert-warning, .alert-danger {background: rgba(144,90,93,0.8);}
+.feature, div.left {background: rgba(137,117,100,0.8) !important;border: 1px solid black !important;}
+.panel {background: rgba(223,215,205,0.8) !important;border: none !important;box-shadow: none !important;}
+.progress {background: rgba(50,50,50,0.4);}
+.progress-div {color: black;}
+.progress-bar {background: rgba(144,90,93,0.8);}
+.chat_light {background: rgba(223,215,205,0.8);text-align: center;border: 1px solid black;border-bottom: none;}
+.chat_dark {background: rgba(126,100,86,0.8);}
+h1 {color: black;font-size: 48px;}
+h3 {color: black !important;font-size: 24px !important;}
+.table {background: rgba(223,215,205,0.8);border: 1px solid black;border-collapse: separate;}
+.top, .bottom, th, .table .left {background: rgba(126,100,86,0.8) !important;color: black !important;}
+.inner-table .left {background: rgba(137,117,100,0.8) !important;}
+.inner-table .right {background: rgba(223,215,205,0.8)}
+.right_odd {background: rgba(150,139,122,0.8) !important;}
+.right_cub {background: rgba(144,90,93,0.8) !important;}
+.cave-grid, .mound-grid {background: rgba(126,100,86,0.8);border: 1px solid black;}
+a:link, a:visited {color: black !important;}
+a:hover {color: brown !important;}
+input, select, textarea {background: rgba(223,215,205,0.8) !important;border: 1px solid black !important;box-shadow: none !important;color: black !important;text-shadow: none !important;}
+input[type=button]:hover, input[type=submit]:hover {background: rgba(144,90,93,0.8) !important;}
