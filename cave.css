@@ -42,7 +42,16 @@ body {
 }
 
 .navbar li a {
-	color: #000000 !important;body {
+	color: #000000 !important;body {https://github.com/katerkun/lioden/blob/main/cave.css
+    background: #00020F url('http://static.lioden.com/images/dynamic/backgrounds/HyenaLandsBG.png') fixed !important;
+    background-repeat: no-repeat !important;
+    background-size: 100% !important;
+}
+.main{
+background-color: rgba(199,199,199,0.1) !important;
+}
+.col-md-9{
+    background-color: rgba(199,199,199,0.1) !important;body {
     background: #00020F url('http://static.lioden.com/images/dynamic/backgrounds/HyenaLandsBG.png') fixed !important;
     background-repeat: no-repeat !important;
     background-size: 100% !important;
@@ -52,6 +61,43 @@ background-color: rgba(199,199,199,0.1) !important;
 }
 .col-md-9{
     background-color: rgba(199,199,199,0.1) !important;
+}
+
+.topBar{
+    text-align: center;
+    height: 40%;
+    min-height: 250px;
+    position: relative;
+    z-index: 10;
+    margin-bottom: 17%;
+    margin-left: 10%;
+}
+
+.bgbg{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background: #00020F url('http://static.lioden.com/images/dynamic/backgrounds/HyenaLandsBG.png') fixed !important;
+    background-repeat: no-repeat !important;
+    background-size: 100% !important;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.lioness {
+    height: 80%;
+    width: 80%;
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -ms-transform: scaleX(-1);
+    transform: scaleX(-1);
+    -ms-filter: "FlipH";
+    filter: FlipH;
+}
 }
 
 .topBar{
